@@ -3,19 +3,17 @@
 					[
 						{
 							"id":1,
-							"nama":"Masjid Agung Baing Yusuf Purwakarta",
-							"jenis":"masjid",
-							"latitude":"-6.555715",
-							"longitude":"107.441069"
+							"nama":"Masjid Agung Baitussalam",
+							"alamat":"Jl. Masjid No.1, Purwokerto, Sokanegara, Kec. Purwokerto Tim., Kabupaten Banyumas, Jawa Tengah 53115",
+							"koordinat":"-7.4245885,109.2290104",
 						},
-
+						
 						{
 							"id":2,
-							"nama":"Masjid Agung",
-							"jenis":"masjid",
-							"latitude":"-6.555715",
-							"longitude":"109.441069"
-						}
+							"nama":"Masjid Bhayangkara Purwokerto",
+							"alamat":"Jl. Perintis Kemerdekaan, Penisian, Purwokerto Kulon, Kec. Purwokerto Sel., Kabupaten Banyumas, Jawa Tengah 53141",
+							"koordinat":"-7.4308083,109.2406524",
+						},
 
 
 					]
